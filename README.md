@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m studied in Complete Web Development Course With Jhankar Mahbub**[(Programming Hero)_](http://programming-hero.com/)**
+- 🔭 I’m Completed Web Development Course With Jhankar Mahbub**[(Programming Hero)_](http://programming-hero.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
