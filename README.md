@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="file:///C:/Users/User/Downloads/undraw_laravel_and_vue_-59-tp.svg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/rk6g22R/undraw-laravel-and-vue-59tp.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarmin Akter Dipty</h1>
 <h3 align="center">I'm a passionate and Dedicated Full Stack Developer from Bangladesh.</h3>
