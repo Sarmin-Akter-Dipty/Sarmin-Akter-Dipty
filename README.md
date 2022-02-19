@@ -70,8 +70,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sarmin-akter-dipty-00b289227"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://github.com/Sarmin-Akter-Dipty"><img src="https://i.ibb.co/mCpfLT4/548-5486247-portfolio-icon-design-icon-applewar-hd-png-download.png"/></a>
-<a href = "https://web.facebook.com/profile.php?id=100006866566786"><img src="https://i.ibb.co/2d6jrk7/124010.png"/></a>
+<a href = "https://github.com/Sarmin-Akter-Dipty"><img src="https://img.icons8.com/color/profile"/></a>
+<a href = "https://web.facebook.com/profile.php?id=100006866566786"><img src="https://img.icons8.com/color/facebook"/></a>
 
 
 </p>
