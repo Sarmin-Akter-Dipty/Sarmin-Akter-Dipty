@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sarminakterdipty1@gmail.com**
 
-- ⚡ Fun fact **I like to Cook,Gardening,Traveling and Fashion Styling.**
+- ⚡ Fun fact **I like to Cooking,Gardening,Traveling and Fashion Styling.**
 
 ## 🚀 Languages and Tools:
 
